@@ -71,6 +71,7 @@ GEM
     graphiql-rails (1.7.0)
       railties
       sprockets-rails
+    graphql (1.11.0)
     i18n (1.8.3)
       concurrent-ruby (~> 1.0)
     listen (3.2.1)
@@ -156,6 +157,7 @@ DEPENDENCIES
   byebug
   faker
   graphiql-rails
+  graphql (~> 1.9)
   listen (~> 3.2)
   puma (~> 4.1)
   rails (~> 6.0.3, >= 6.0.3.1)
